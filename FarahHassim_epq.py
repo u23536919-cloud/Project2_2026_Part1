@@ -3,6 +3,11 @@
 #1. EPQ is used when  you manufacture your own stock rather than ordering it from a supplier.
 # the holding cost part of the calculation changes
 
+# This model calculates the Economic Production Quantity (EPQ) - the optimal
+# batch size to produce in-house when stock is manufactured gradually rather than
+# ordered all at once. It also works out how many production runs are
+# needed per year and the maximum inventory level reached during each run.
+
 #2. EPQ Formula
 
 #3. Step by step process
